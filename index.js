@@ -655,4 +655,4 @@ var LZString = {
   }
 };
 
-module.exports.LZString;
+module.exports = LZString;
